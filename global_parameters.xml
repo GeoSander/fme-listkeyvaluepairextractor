@@ -1,0 +1,17 @@
+#! <GLOBAL_PARAMETERS>
+#! <GLOBAL_PARAMETER
+#!   GUI_LINE="GUI ATTR __KEY_ATTR Attribute Name List:"
+#!   DEFAULT_VALUE=""
+#!   IS_STAND_ALONE="false"
+#! />
+#! <GLOBAL_PARAMETER
+#!   GUI_LINE="GUI ATTR __VAL_ATTR Attribute Value List:"
+#!   DEFAULT_VALUE=""
+#!   IS_STAND_ALONE="false"
+#! />
+#! <GLOBAL_PARAMETER
+#!   GUI_LINE="GUI LOOKUP_CHOICE __ATTR_CONFLICT_RES Use&lt;space&gt;Original&lt;space&gt;Attribute&lt;space&gt;Values,0%Use&lt;space&gt;List&lt;space&gt;Attribute&lt;space&gt;Values,1 Conflict Resolution:"
+#!   DEFAULT_VALUE="1"
+#!   IS_STAND_ALONE="false"
+#! />
+#! </GLOBAL_PARAMETERS>
